@@ -27,7 +27,7 @@ Greatest decrease in Profit/Losses (date and amount)
 ## Usage 
 
 1) Upon loading, the index.html page the console log shows analysis of dataset using javascript. 
-![see here](console-finances.png)
+![see here](assets/console-finances.png)
 
 
 ## Credits
